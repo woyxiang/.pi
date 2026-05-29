@@ -1,0 +1,9 @@
+{
+  "shellPath": "D:/Programs/msys64/usr/bin/bash.exe",
+  "lastChangelogVersion": "0.77.0",
+  "defaultProvider": "minimax-cn",
+  "defaultModel": "MiniMax-M2.7",
+  "defaultThinkingLevel": "high",
+  "showHardwareCursor": false,
+  "hideThinkingBlock": false
+}
