@@ -41,7 +41,7 @@ const TRANSLATIONS: Record<
       edits: "执行一个或多个精确替换。每个edit都会基于原始文件进行匹配，而不是基于前一次修改后的结果逐步匹配。不要包含相互重叠或嵌套的edit。如果两处修改涉及同一代码块或相邻行，应将其合并为一个edit。",
       oldText:
         "要替换的精确文本。必须在原始文件中唯一，且不能与同一次调用中的其他edits[].oldText重叠。",
-      newText: "替换后的文本。",
+      newText: "新文本",
     },
   },
   write: {
