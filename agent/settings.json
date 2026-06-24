@@ -1,9 +1,10 @@
 {
   "shellPath": "D:/Programs/msys64/usr/bin/bash.exe",
-  "lastChangelogVersion": "0.77.0",
-  "defaultProvider": "minimax-cn",
-  "defaultModel": "MiniMax-M2.7",
-  "defaultThinkingLevel": "high",
+  "lastChangelogVersion": "0.79.9",
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-pro",
+  "defaultThinkingLevel": "xhigh",
   "showHardwareCursor": false,
-  "hideThinkingBlock": false
+  "hideThinkingBlock": false,
+  "theme": "dark"
 }
