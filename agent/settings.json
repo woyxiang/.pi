@@ -1,10 +1,13 @@
 {
   "shellPath": "D:/Programs/msys64/usr/bin/bash.exe",
-  "lastChangelogVersion": "0.79.9",
+  "lastChangelogVersion": "0.80.2",
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",
   "defaultThinkingLevel": "xhigh",
   "showHardwareCursor": false,
   "hideThinkingBlock": false,
-  "theme": "dark"
+  "theme": "dark",
+  "packages": [
+    "npm:@alexanderfortin/pi-deepseek-usage"
+  ]
 }
