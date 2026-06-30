@@ -3,3 +3,4 @@ models.json
 agent/sessions
 agent/npm
 agent/git
+trust.json
